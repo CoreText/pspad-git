@@ -2,21 +2,21 @@
 #### local and remote Git commands for PsPad editor
 
 # How to install
-Copy the *gitCommands.vbs* file into the Script\VBScript directory
+Copy the *gitCommands.vbs* file into the `Script\VBScript` directory of PsPad
 
 ## Prerequisites: 
-It is supposed that GIT is already installed and available 
+GIT should already be installed and available 
 in the path environment variable, accessible from everywhere.
 
-The first thing you should do when you install Git is 
+The first thing to do when Git is installed is 
 to set your user name and email address. 
-
-This is important because every Git commit uses this information, 
 ```
    git config --global user.name "John Doe"
    git config --global user.email johndoe@example.com
 ```
-This will be stored in the local file .git\config file
+
+This is important because every Git commit uses this information, 
+This information will be stored in the local file `.git\config` file
 ```
 [user] 
    user.name=John Doe
