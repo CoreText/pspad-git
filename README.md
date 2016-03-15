@@ -3,10 +3,10 @@
 
 # How to install
 Copy the `gitCommands.vbs` file into the `Script\VBScript` directory of PsPad and restart the PsPad editor; 
-It will then look like 
-![git-commands after installation](/media/images/2016-03-15%2016_38_02-gitCommandsAdded.png?raw=true "pspad git-commands")
+It will then look like this:
+
 <div align="center">
-        <img width="45%" src="/media/images/2016-03-15%2016_38_02-gitCommandsAdded.png?raw=true" alt="git-commands after installation" title="pspad git-commands"</img>
+        <img width="35%" src="/media/images/2016-03-15%2016_38_02-gitCommandsAdded.png?raw=true" alt="git-commands after installation" title="pspad git-commands"</img>
         <img height="0" width="8px">
 </div>
 
