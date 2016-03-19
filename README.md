@@ -1,9 +1,12 @@
 # pspad-git
-#### local and remote Git commands for PsPad editor
+Local and remote Git commands for PSPad editor (http://www.pspad.com/)
 
 # How to install
-Copy the `gitCommands.vbs` file into the `Script\VBScript` directory of PsPad and restart the PsPad editor; 
-It will then look like this:
+Copy the ```gitCommands.vbs```file into the `Script\VBScript` directory of where PSPad was installed on your PC which is by default ```C:\Program Files (x86)\PSPad editor\``` in Windows7.
+Quit and restart the PSPad editor. 
+
+You caould press  ```Scripts | Recompile scripts``` to make certain that no remaining errors occur.
+The menu will look like this:
 
 <div align="center">
         <img width="35%" src="/media/images/2016-03-15%2016_38_02-gitCommandsAdded.png?raw=true" alt="git-commands after installation" title="pspad git-commands"</img>
